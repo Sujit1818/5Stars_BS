@@ -1,3 +1,5 @@
 thid is chst app
 emoji
 type option
+dark mode
+video
